@@ -1,0 +1,13 @@
+networkx
+openai
+numpy
+python-dotenv
+streamlit
+flask
+pyvis
+requests
+streamlit-chat
+streamlit-autorefresh
+pandas
+docx
+werkzeug
